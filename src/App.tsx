@@ -1,9 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import HeroSection from './components/HeroSection.jsx';
-import AboutBand from './components/AboutBand.jsx';
-import MusicSection from './components/MusicSection.jsx';
-import Footer from './components/Footer.jsx';
+import HeroSection from './components/HeroSection.js';
+import AboutBand from './components/AboutBand.js';
+import MusicSection from './components/MusicSection.js';
+import Footer from './components/Footer.js';
 
 function App() {
   return (
