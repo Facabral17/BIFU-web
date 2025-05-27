@@ -1,0 +1,55 @@
+.hero-container {
+  position: relative;
+  height: 100vh;
+  color: white;
+  z-index: 1;
+}
+
+.video-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 0;
+}
+
+.hero-content {
+  z-index: 2;
+}
+
+.bifu-name {
+  font-size: 4rem;
+  font-weight: bold;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+}
+
+.bifu-logo {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+  filter: drop-shadow(2px 2px 8px rgba(0, 0, 0, 0.8));
+  border-radius: 50%;
+}
+
+.hero-phrase {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.7);
+}
+
+.hero-button {
+  font-size: 1.2rem;
+  padding: 0.75rem 1.5rem;
+  border-width: 2px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+  transition: all 0.3s ease;
+}
+
+.hero-button:hover {
+  background-color: white;
+  color: black;
+  box-shadow: 0 6px 20px rgba(255, 255, 255, 0.5);
+}
