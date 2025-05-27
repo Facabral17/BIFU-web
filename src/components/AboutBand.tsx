@@ -51,7 +51,7 @@ const AboutBand = () => {
         {showMore && (
           <div className="band-story px-md-5">
             <p>
-              En plena pandemia, año 2019, y dado el confinamiento, Facu
+              En plena pandemia, año 2020, y dado el confinamiento, Facu
               (guitarra y voz) encerrado en su cuarto se dedica a componer
               varias canciones que terminaría mostrando a Mathi (guitarra y
               coros) en juntadas casuales intentando escapar del encierro. Mathi
@@ -60,7 +60,7 @@ const AboutBand = () => {
             <p>
               Años más tarde y ya fuera del confinamiento Facu une a Luks
               (batería) para comenzar a dar forma a los temas ahora en salas de
-              ensayo. En el año 2025 y tras probar distintas formaciones con
+              ensayo. En el año 2024 y tras probar distintas formaciones con
               bajistas ocasionales deciden llamar a Pila (bajo) para que sea
               miembro estable en la banda.
             </p>
