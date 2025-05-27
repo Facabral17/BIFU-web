@@ -1,4 +1,3 @@
-import React from "react";
 import "../styles/HeroSection.css";
 import BifuLogo from "../images/BifuLogo.jpg";
 import BifuVideo from "../videos/BifuVideo.mp4";

@@ -1,4 +1,3 @@
-import React from "react";
 import "../styles/MusicSection.css";
 
 const spotifyArtistURL =

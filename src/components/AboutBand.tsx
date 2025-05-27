@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "../styles/AboutBand.css";
 import BandPhoto from "../images/BandPhoto.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
